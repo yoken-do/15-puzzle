@@ -6,6 +6,20 @@
 A fully customizable version of the "15-Puzzle" game.
 
 ## Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/yoken-do/15-puzzle.git
+cd 15-puzzle
+```
+
+2. **Create the** `sessions/` **directory (required for saving game states)**
+```bash
+mkdir sessions
+```
+
+3. **Compile the project**
+
 Run `./compile.bat` to install.
 
 **Note:** If you run `./compile.bat` without modifications, the project will compile into `./test.exe`.

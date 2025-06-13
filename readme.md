@@ -19,11 +19,11 @@ mkdir sessions
 ```
 
 3. **Compile the project**
-Run
+
+Run to install
 ```bash
 ./compile.bat
 ```
-to install
 
 **Note:** If you run `./compile.bat` without modifications, the project will compile into `./test.exe`.
 
